@@ -4,4 +4,4 @@ I like doing C/++/#, html, python, asm (osdev too), cyber security stuff, and a 
 
 I'm just kinda chill, and like to make fun little projects.
 
-My site -> https://warrik2020.github.io/
+My site -> https://warrick.static.domains/
