@@ -1,5 +1,4 @@
-Hi I'm Warrick, A cool coding guy who makes random stuff!
+Coder guy.
 
-I like doing C/++/#, html, python, asm, cyber security stuff, and a LOT more.
-
-I'm just kinda chill, and like to make fun little projects.
+I know all the good languages.
+I HATE rust.
